@@ -45,8 +45,8 @@ public class Statics {
     public static final String UNKNOWN_ICON = API_URL + "/icon/equipment/999999.webp";
 
     //  App URL
-    public static final String APP_RAW = "https://github.com/ShizuNyanUwU/KurumiNote/master";
+    public static final String APP_RAW = "https://github.com/ShizuNyanUwU/KurumiNotes/master";
     public static final String APP_UPDATE_LOG = APP_RAW + "/update_log.json";
-    public static final String APP_PACKAGE = "https://github.com/ShizuNyanUwU/KurumiNote/releases/latest/download/kuruminotes-release.apk";
+    public static final String APP_PACKAGE = "https://github.com/ShizuNyanUwU/KurumiNotes/releases/latest/download/kuruminotes-release.apk";
     public static final String APK_NAME = "kuruminotes-release.apk";
 }
