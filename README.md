@@ -1,8 +1,8 @@
-# kurumiNotes
+# KurumiNotes
 
 An **unofficial** Android information application for "Princess Connect Re:Dive".
 
-This is a modified version of [ShizuruNotes](https://github.com/MalitsPlus/ShizuruNotes).
+This is a modified version of [YukariNotes](https://github.com/OlegZuev/YukariNotes).
 
 ## Requirement
 
@@ -66,14 +66,14 @@ Korean and English are also somehow supported, yet may be updated with less freq
 
 ## References
 
-kurumiNotes is highly inspired by the following illustrious repos, thanks them:
+KurumiNotes is highly inspired by the following illustrious repos, thanks them:
 
 * [PrincessGuide](https://github.com/superk589/PrincessGuide)
 * [redive_master_db_diff](https://github.com/esterTion/redive_master_db_diff)
 * [DereHelper](https://github.com/Lazyeraser/DereHelper)
 
-kurumiNotes also uses [these](OPENSOURCE.md) open source software.
+KurumiNotes also uses [these](OPENSOURCE.md) open source software.
 
 ## License
 
-kurumiNotes is licensed under the Apache License 2.0.
+KurumiNotes is licensed under the Apache License 2.0.
